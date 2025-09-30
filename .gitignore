@@ -1,0 +1,14 @@
+# Ignorar datasets locais
+/data/*.csv
+
+# Ignorar arquivos temporários do Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar arquivos temporários do SQL Server
+*.bak
+*.trn
+*.ldf
+
+# Ignorar arquivos de log
+*.log
