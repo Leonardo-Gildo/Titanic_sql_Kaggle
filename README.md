@@ -205,8 +205,12 @@ Projeto desenvolvido por \*\*Leonardo Gildo\*\* como parte de sua jornada para s
 ---
 **Leonardo Gildo**  
 Analista de Dados | DBA  
+---
 
-📌 [LinkedIn](https://www.linkedin.com/in/leonardo-gildo)  
-✉️ leonardo@devzenith.com.br
-📱 WhatsApp: [(85) 9 8646-0376](https://wa.me/5585986460376) 
+## 📬 Contato  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-gildo)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo@devzenith.com.br)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585986460376)  
+
 
