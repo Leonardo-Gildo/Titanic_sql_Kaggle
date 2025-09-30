@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚢 Titanic SQL Kaggle - Projeto de Estudo
 
 Este repositório documenta minha evolução no aprendizado de **SQL Server, Docker e Análise de Dados**, aplicados ao desafio **[Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic)**.
