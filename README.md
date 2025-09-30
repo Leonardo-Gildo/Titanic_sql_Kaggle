@@ -202,9 +202,11 @@ titanic-sql-kaggle/
 \## 👤 Autor
 
 Projeto desenvolvido por \*\*Leonardo Gildo\*\* como parte de sua jornada para se tornar \*\*Analista de Dados / DBA\*\*.  
+---
+**Leonardo Gildo**  
+Analista de Dados | DBA  
 
+📌 [LinkedIn](https://www.linkedin.com/in/leonardo-gildo)  
+✉️ leonardo@devzenith.com.br
+📱 WhatsApp: [(85) 9 8646-0376](https://wa.me/5585986460376) 
 
-
-
-
->>>>>>> 3e41a0d (Primeiro commit - Estrutura inicial do projeto Titanic SQL Kaggle)
