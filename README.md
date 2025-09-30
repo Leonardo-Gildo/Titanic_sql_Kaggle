@@ -61,7 +61,7 @@ Este repositório documenta minha evolução no aprendizado de **SQL Server, Doc
 ---
 
 ## 👤 Autor
-Projeto desenvolvido por **Leonardo Gildo** como parte de sua jornada para se tornar **Analista de Dados / DBA**.  
+Projeto desenvolvido por **Leonardo Gildo** como parte de aperfeiçoamento para **Analista de Dados / DBA**.  
 
 ---
 
